@@ -32,10 +32,10 @@ This project is the frontend part of an Inventory Management System built using 
 - Chart.js (for data visualization)
 - CSS Modules (for styling separation)
 
-![Alt Text]( )
-![Alt Text]()
+![Alt Text](https://github.com/Kasireddynanda/inventory-frontend-/blob/2956f85f62f767980fa56a27bb1132b3de4e6a1b/inv1.png)
+![Alt Text](https://github.com/Kasireddynanda/inventory-frontend-/blob/2956f85f62f767980fa56a27bb1132b3de4e6a1b/inv2.png)
 
-![Alt Text]()
+![Alt Text](https://github.com/Kasireddynanda/inventory-frontend-/blob/2956f85f62f767980fa56a27bb1132b3de4e6a1b/inv3.png)
 
 
 
