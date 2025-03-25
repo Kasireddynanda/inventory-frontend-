@@ -1,0 +1,48 @@
+.login-container {
+    width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background: linear-gradient(45deg, #6a11cb, #2575fc);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .input-container {
+    position: relative;
+    margin-bottom: 15px;
+  }
+  
+  .input-icon {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 20px;
+    height: 20px;
+  }
+  
+  .input-field {
+    width: 355px;
+    padding: 10px 10px 10px 40px; /* Space for the icon */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+  }
+  
+  .login-button {
+    height:50px;
+    width: 100%;
+    padding-top:10px;
+    background: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top:20px;
+  }
+  
+  .login-button:hover {
+    background: #218838;
+  }
+  
