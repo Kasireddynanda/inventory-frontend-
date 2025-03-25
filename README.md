@@ -32,5 +32,12 @@ This project is the frontend part of an Inventory Management System built using 
 - Chart.js (for data visualization)
 - CSS Modules (for styling separation)
 
+![Alt Text]( )
+![Alt Text]()
+
+![Alt Text]()
+
+
+
 
 
